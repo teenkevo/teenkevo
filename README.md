@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kevinmugumya" target="blank"><img src="https://img.shields.io/twitter/follow/kevinmugumya?logo=twitter&style=for-the-badge" alt="kevinmugumya" /></a> </p>
 
-- 🔭 I’m currently working on [Vlearned (Learning Management System))](https://www.vlearned.com)
+- 🔭 I’m currently working on [Vlearned (Learning Management System))](https://vlearned.netlify.app/)
 
 - 🌱 I’m currently learning **LLMs, Cloud Computing, Goland, Rust, IaaS**
 
